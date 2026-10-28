@@ -1,7 +1,7 @@
 <h1 align="center">Panjul Ganteng Idaman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=FF8C42&center=true&vCenter=true&width=700&lines=Senior+Meat+Proxy;Chinese+LLM+Navigator;DeepSeek+Harness+Operator;Because+OpenAI+said+no" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=FF8C42&center=true&vCenter=true&width=700&lines=Senior+Meat+Proxy;Chinese+LLM+Navigator;DeepSeek+Harness+Operator;Prompt+Engineer+With+Questionable+Judgment" />
 </p>
 
 <p align="center">
